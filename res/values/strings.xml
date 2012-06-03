@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="selectStream">Please select a radio stream.</string>
+    <string name="app_name">AndroidRadioScrobbler</string>
+    <string name="playbackFailed">Playback failed.</string>
+    <string name="buffering">Buffering&#8230;</string>
+    <string name="resumingPlayback">Resuming playback&#8230;</string>
+    <string name="songInfoUnavailable">Song info unavailable on this channel.</string>
+    <string name="artistSongNameSeperator"> by </string>
+    <string name="starting">Starting</string>
+    <string name="noSongPlaying">No song playing</string>
+
+</resources>
